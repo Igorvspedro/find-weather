@@ -1,6 +1,6 @@
 import { WeatherResponse, WeatherData, WeatherApiError } from '@/types/weather';
 
-const API_KEY = '4aefabd54f1c92a36ab4ff23a55f9b67'; // Demo API key
+const API_KEY = 'bd5e378503939ddaee76f12ad7a97608'; // Chave pública válida
 const BASE_URL = 'https://api.openweathermap.org/data/2.5';
 
 export class WeatherApi {
